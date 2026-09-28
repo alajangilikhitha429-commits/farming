@@ -1,0 +1,8 @@
+{
+  "name": "Smart Farming Advisor",
+  "description": "Smart Farming Advisor helps farmers select the best crops based on season, soil type, climate, water availability, and location, with tailored recommendations for organic pesticides, bio-fertilizers, natural weed control, and crop care tips.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
